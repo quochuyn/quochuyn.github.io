@@ -8,9 +8,9 @@ nav_order: 2
 ---
 
 
-🎥 **youtube_nlp_recommender** [Article](https://medium.com/@gabrielalon257/youtube-filtering-capstone-67f755fb6dca) | [Repo](https://github.com/quochuyn/youtube_nlp_recommender) | [Video](https://drive.google.com/file/d/10EIKd1QhmoLsq2TeQgsYkP51RMODiRMc/view) | [Website](https://youtube-capstone.streamlit.app/) This is an end-to-end product for a Youtube video recommender system with a NLP-based filter using LLMs like BERT and Chat-GPT to provide a personalized browsing experience and filter offensive/addictive content.
+**youtube_nlp_recommender** [Article](https://medium.com/@gabrielalon257/youtube-filtering-capstone-67f755fb6dca) | [Repo](https://github.com/quochuyn/youtube_nlp_recommender) | [Video](https://drive.google.com/file/d/10EIKd1QhmoLsq2TeQgsYkP51RMODiRMc/view) | [Website](https://youtube-capstone.streamlit.app/) This is an end-to-end product for a Youtube video recommender system with a NLP-based filter using LLMs like BERT and Chat-GPT to provide a personalized browsing experience and filter offensive/addictive content.
 
-🏒 **nhl-draft-predictions** [Article](https://deepnote.com/@nhl-draft-predictions/NHL-Draft-Predictions-09d8dc5c-d54b-4729-bd12-f4067dd931f4) | [Repo](https://github.com/quochuyn/nhl-draft-predictions) We leveraged Natural Language Processing (NLP) techniques to predict player outcomes in the National Hockey League (NHL) draft. We outline our journey through various NLP methodologies, starting from the baseline NLTK approach and progressing to state-of-the-art Language Models (LLMs) like Google's BERT and OpenAI's Chat-GPT.
+**nhl-draft-predictions** [Article](https://deepnote.com/@nhl-draft-predictions/NHL-Draft-Predictions-09d8dc5c-d54b-4729-bd12-f4067dd931f4) | [Repo](https://github.com/quochuyn/nhl-draft-predictions) We leveraged Natural Language Processing (NLP) techniques to predict player outcomes in the National Hockey League (NHL) draft. We outline our journey through various NLP methodologies, starting from the baseline NLTK approach and progressing to state-of-the-art Language Models (LLMs) like Google's BERT and OpenAI's Chat-GPT.
 
 ***
 
