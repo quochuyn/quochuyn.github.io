@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Data Scientist/Engineer/Analyst 📈 and Ping Pong Rookie 🏓
+Data Scientist 📈 and Ping Pong Rookie 🏓
 
 Greetings! Data science is my passion. From engineering complex data pipelines to unveiling hidden patterns, I **thrive** on transforming data into actionable insights. With a Master's in Applied Data Science from the University of Michigan and a B.S. in Mathematics specialized in Data Science, I wield machine learning and A.I. tools to turn data into actionable solutions.
 
