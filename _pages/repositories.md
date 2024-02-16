@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-**Youtube Recommendation Website** [Article](https://medium.com/@gabrielalon257/youtube-filtering-capstone-67f755fb6dca) | [Code](https://github.com/quochuyn/youtube_nlp_recommender) | [Video](https://drive.google.com/file/d/10EIKd1QhmoLsq2TeQgsYkP51RMODiRMc/view) | [Website](https://youtube-capstone.streamlit.app/) 
+**Youtube Recommendation Website** [Article](https://medium.com/@gabrielalon257/youtube-filtering-capstone-67f755fb6dca) | [Code](https://github.com/quochuyn/youtube_nlp_recommender) | [Video](https://www.youtube.com/watch?v=T_uKgvzt8M0) | [Website](https://youtube-capstone.streamlit.app/) 
 This is an end-to-end product for a Youtube video recommender system with a NLP-based filter using LLMs like BERT and Chat-GPT to provide a personalized browsing experience and filter offensive/addictive content.
 
 **NHL Draft Predictions** [Article](https://deepnote.com/@nhl-draft-predictions/NHL-Draft-Predictions-09d8dc5c-d54b-4729-bd12-f4067dd931f4) | [Code](https://github.com/quochuyn/nhl-draft-predictions) 
