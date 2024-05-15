@@ -1,5 +1,6 @@
 github_repos:
   - quochuyn/youtube_nlp_recommender
   - quochuyn/nhl-draft-predictions
+  - quochuyn/better-linkedin-jobs
   - quochuyn/quochuyn.github.io
   - quochuyn/DGCN-torch

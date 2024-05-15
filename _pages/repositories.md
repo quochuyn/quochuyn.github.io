@@ -13,6 +13,9 @@ This is an end-to-end product for a Youtube video recommender system with a NLP-
 **NHL Draft Predictions** [Article](https://deepnote.com/@nhl-draft-predictions/NHL-Draft-Predictions-09d8dc5c-d54b-4729-bd12-f4067dd931f4) | [Code](https://github.com/quochuyn/nhl-draft-predictions) 
 We leveraged Natural Language Processing (NLP) techniques to predict player outcomes in the National Hockey League (NHL) draft. We outline our journey through various NLP methodologies, starting from the baseline NLTK approach and progressing to state-of-the-art Language Models (LLMs) like Google's BERT and OpenAI's Chat-GPT.
 
+**Better LinkedIn Job Postings** [Code](https://github.com/quochuyn/better-linkedin-jobs)
+I used the Scraping Dogs API and BeautifulSoup to obtain higher quality LinkedIn job postings. This allowed me to filter to specific roles that I desired and avoid LinkedIn job advertisements posting irrelevant/repetitive jobs.
+
 **This Website** [Code](https://github.com/quochuyn/quochuyn.github.io)
 I crafted this portfolio website within 3 days by immersing myself in front-end technologies (HTML, Javascript, and CSS) despite having no prior knowledge. Notably, this project is built upon the [al-folio](https://github.com/alshedivat/al-folio) template, incorporating Jekyll and Github Actions for CI/CD, showcasing my rapid learning for web development.
 
