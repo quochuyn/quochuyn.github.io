@@ -16,12 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Data Scientist 📈 and Ping Pong Rookie 🏓
+Data Scientist 📈, Golf Amateur ⛳, Half-Marathon Runner 🏃
 
-Greetings! Data science is my passion. From engineering complex data pipelines to unveiling hidden patterns, I **thrive** on transforming data into actionable insights. With a Master's in Applied Data Science from the University of Michigan and a B.S. in Mathematics specialized in Data Science, I wield machine learning and A.I. tools to turn data into actionable solutions.
+"Data is the new oil." - Clive Humby. But like crude oil, data must be refined to be valuable. I specialize in transforming raw, unstructured data into actionable insights, predictive models, and AI-driven solutions that fuel business innovation. Backed by a Master's in Applied Data Science (University of Michigan) and a B.S. in Mathematics (University of California, Irvine), I don't just work with data - I refine it into strategic value that drives real-world impact.
 
-I am a data scientist who:
-* Excels in engineering data pipelines
-* Effectively communicates data insights with storytelling finesse
-* Navigates through various data structures--text, image, graph, numerical, and more
-* Most importantly, strives to utilize data's power to create a positive impact in our world
+I am a data scientist, with expertise in machine learning, data engineering, and GenAI, who:
+* Mitigated risk in critical infrastructure - deploying ML to prevent $500K+ in annual gas pipelines damages.
+* Leveraged LLMs (GPT-4o) to extract root causes of 140K+ customer complaints, enabling systemic business improvements.
+* Automated analytics pipelines, cutting manual effort by 98% and streamlining operations.
+* Advanced AI in healthcare, optimizing deep learning models for EEG and MRI analysis to improve patient outcomes.
